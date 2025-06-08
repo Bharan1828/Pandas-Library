@@ -7,3 +7,5 @@ This repository showcases practical data analysis using the **Pandas** library i
 ![image alt](https://github.com/Bharan1828/Pandas-Library/blob/main/Screenshot%202025-06-08%20114348.png?raw=true)
 
 ![image alt](https://github.com/Bharan1828/Pandas-Library/blob/main/Screenshot%202025-06-08%20114426.png?raw=true)
+
+![image alt](https://github.com/Bharan1828/Pandas-Library/blob/main/Screenshot%202025-06-08%20114456.png?raw=true)
